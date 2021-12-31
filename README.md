@@ -18,7 +18,7 @@ Written in Kotlin
 #### This is a Beginner Friendly Repository made for Open Source Enthusiasts who can contribute to the App. 
 #### To contribute in this project, you can update the existing applications.
 
-<a id="raw-url" href="https://github.com/Abhi6722/TouchNotes/blob/master/.github/TouchNotes.apk">Download App</a>
+<a id="raw-url" href="https://github.com/Abhi6722/TouchNotes/releases/download/v1/TouchNotes.apk">Download App</a>
 
 
 ## Features :
@@ -69,7 +69,7 @@ To start contributing, check out [CONTRIBUTING.md](https://github.com/Abhi6722/T
 
 ***You can Install and test latest Touch Notes app from below 👇*** <br> 
 
-<a id="raw-url" href="https://github.com/Abhi6722/TouchNotes/blob/master/.github/TouchNotes.apk">Download App</a>
+<a id="raw-url" href="https://github.com/Abhi6722/TouchNotes/releases/download/v1/TouchNotes.apk">Download App</a>
 
 # Screen Shots :
 
