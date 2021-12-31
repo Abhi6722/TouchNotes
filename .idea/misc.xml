@@ -22,6 +22,8 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19791666666666666" />
         <entry key="app/src/main/res/layout/fragment_create_note.xml" value="0.11145833333333334" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.25697000510967644" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2421875" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.23846153846153847" />
       </map>
     </option>
   </component>
