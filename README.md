@@ -67,7 +67,9 @@ To start contributing, check out [CONTRIBUTING.md](https://github.com/abhi6722/T
 
 #### Liked this repo, give it a star ⭐ and fork 🍽️ this repository to help others!!
 
-***You can Install and test latest Touch Notes app from below 👇*** <br> [<img src="https://www.logo.wine/a/logo/Google_Play/Google_Play-Badge-Logo.wine.svg" width="200" />](https://play.google.com/store/apps/details?id=com.abhi6722.TouchNotes)
+***You can Install and test latest Touch Notes app from below 👇*** <br> 
+
+<a id="raw-url" href="https://github.com/Abhi6722/TouchNotes/blob/master/.github/TouchNotes.apk">Download App</a>
 
 # Screen Shots :
 
