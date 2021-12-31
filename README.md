@@ -20,7 +20,6 @@ Written in Kotlin
 
 <a id="raw-url" href="https://github.com/Abhi6722/TouchNotes/blob/master/.github/TouchNotes.apk">Download App</a>
 
-***
 
 ## Features :
 
