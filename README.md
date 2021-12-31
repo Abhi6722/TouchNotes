@@ -1,4 +1,4 @@
-# 📒MyNotes
+# 📒Touch Notes
 
 Touch Notes is a note application using androidx libraries, MVVM with Google Architectural components Room, LiveData and ViewModel.
 Written in Kotlin
