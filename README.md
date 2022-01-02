@@ -65,7 +65,7 @@ Open your forked repo in your browser and then raise a PR to the `master` branch
 To start contributing, check out [CONTRIBUTING.md](https://github.com/Abhi6722/TouchNotes/blob/master/Contributing.md). New contributors are always welcome to support this project. If you want something gentle to start with, check out issues labelled as `easy` or `good-first-issue`. Check out issues labelled as `hacktoberfest` if you are up for some grabs! :) 
 
 
-#### Liked this repository, give it a star ⭐ and fork 🍽️ this repository to help others!!
+#### Liked this repo, give it a star ⭐ and fork 🍽️ this repo to help others!!
 
 ***You can Install and test latest Touch Notes app from below 👇*** <br> 
 
