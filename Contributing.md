@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-This document contains certain rules and guidelines that developers are expected to follow, while contributing to any repository by @abhi6722.
+This document contains certain rules and guidelines that developers are expected to follow, while contributing to any repository by @Abhi6722.
 
 ---
 
