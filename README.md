@@ -13,7 +13,7 @@
 ![DEPENDENCIES](https://img.shields.io/badge/Kotlin-androidx_libraries-green?&style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-v1-fcba03?style=for-the-badge)
 
-Touch Notes is a note application using androidx libraries, MVVM with Google Architectural components Room, LiveData and ViewModel.
+Touch Notes is a note application build using androidx libraries, MVVM with Google Architectural components Room, LiveData and ViewModel.
 Written in Kotlin
 #### This is a Beginner Friendly Repository made for Open Source Enthusiasts who can contribute to the App. 
 #### To contribute in this project, you can update the existing applications.
