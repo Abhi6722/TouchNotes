@@ -30,8 +30,6 @@ Written in Kotlin.
 - **Notes Colours** - Change/Add Different colours of Notes.
 - **Re-edit Notes** - Re-edit or Update Your Notes.
 
-### Contributing
-###### You can star ⭐ and fork 🍽️ this repository on GitHub by navigating at the top of this repository.
 
 ## Getting Started
 * Fork it.
