@@ -15,11 +15,13 @@
 
 Touch Notes is a note application build using androidx libraries, MVVM with Google Architectural components Room, LiveData and ViewModel.
 Written in Kotlin.
+
 #### This is a Beginner Friendly Repository made for Open Source Enthusiasts who can contribute to the App. 
 #### To contribute in this project, you can update the existing applications.
 
 <a id="raw-url" href="https://github.com/Abhi6722/TouchNotes/releases/download/v1/TouchNotes.apk">Download App</a>
 
+<p align="center"> <img src="https://github.com/Abhi6722/TouchNotes/blob/master/.github/banner.png" width="700"> </p>
 
 ## Features :
 
@@ -69,6 +71,6 @@ To start contributing, check out [CONTRIBUTING.md](https://github.com/Abhi6722/T
 
 <a id="raw-url" href="https://github.com/Abhi6722/TouchNotes/releases/download/v1/TouchNotes.apk">Download App</a>
 
-# Screen Shots :
+# Screenshots :
 
-<p align="center"> <img src="https://github.com/Abhi6722/TouchNotes/blob/master/.github/banner.png" width="700"> </p>
+<p align="center"> <img src="https://github.com/Abhi6722/TouchNotes/blob/master/.github/screenshots.png" width="700"> </p>
