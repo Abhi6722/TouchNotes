@@ -73,4 +73,4 @@ To start contributing, check out [CONTRIBUTING.md](https://github.com/Abhi6722/T
 
 # Screenshots :
 
-<p align="center"> <img src="https://github.com/Abhi6722/TouchNotes/blob/master/.github/screenshots.png" width="700"> </p>
+<img src="https://github.com/Abhi6722/TouchNotes/blob/master/.github/screenshots.png" width="700">
