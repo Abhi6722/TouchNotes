@@ -21,6 +21,8 @@ Written in Kotlin.
 
 <a id="raw-url" href="https://github.com/Abhi6722/TouchNotes/releases/download/v1/TouchNotes.apk">Download App</a>
 
+***
+
 <p align="center"> <img src="https://github.com/Abhi6722/TouchNotes/blob/master/.github/banner.png" width="700"> </p>
 
 ## Problem Statement :
